@@ -1,0 +1,211 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="monuments">Monuments</string>
+    <string name="mosque">Mosques</string>
+    <string name="beach">Beach</string>
+    <string name="university">University</string>
+    <string name="egypt">Egypt</string>
+    <string name="home">Home</string>
+    <string name="visite">Visite</string>
+    <string name="read_more">Read More</string>
+
+    <string name="egypt_overview">
+        officially the Arab Republic of Egypt, is a transcontinental
+        country spanning the northeast corner of Africa and southwest corner
+        of Asia by a land bridge formed by the Sinai Peninsula. Egypt is a Mediterranean country
+        bordered by the Gaza Strip and Israel to the northeast, the Gulf of Aqaba to the east,
+        the Red Sea to the east and south, Sudan to the south, and Libya to the west. Across the
+        Gulf of Aqaba lies Jordan, and across from the Sinai Peninsula lies Saudi Arabia,
+        although Jordan and Saudi Arabia do not share a land border with Egypt.
+    </string>
+    <string name="egypt_site">https://en.wikipedia.org/wiki/Egypt</string>
+    <string name="egypt_latitude">26.8348894</string>
+    <string name="egypt_Longitude">26.3802996</string>
+
+
+    <string name="tutankhamun">Tutankhamun</string>
+    <string name="tut_description">
+        was an Egyptian pharaoh of the 18th dynasty
+        (ruled c. 1332–1323 BC in the conventional chronology),
+        during the period of Egyptian history known as the New Kingdom or sometimes
+        the New Empire Period. He has, since the discovery of his intact tomb, been referred to
+        colloquially as King Tut. His original name, Tutankhaten, means "Living Image of Aten",
+        while Tutankhamun means "Living Image of Amun". In hieroglyphs, the name Tutankhamun was
+        typically written Amen-tut-ankh, because of a scribal custom that placed a divine name at the
+        beginning of a phrase to show appropriate reverence.He is possibly also the Nibhurrereya of the
+        Amarna letters, and likely the 18th dynasty king Rathotis who, according to Manetho, an ancient historian,
+        had reigned for nine years—a figure that conforms with Flavius Josephus's version of Manetho's Epitome.
+    </string>
+    <string name="tut_latitude">30.0477508</string>
+    <string name="tut_Longitude">31.2340181</string>
+
+
+    <string name="karnak">Karnak</string>
+    <string name="karnak_description">
+        The Karnak Temple Complex, commonly known as Karnak
+        comprises a vast mix of decayed temples, chapels, pylons,
+        and other buildings in Egypt. Construction at the complex began
+        during the reign of Senusret I in the Middle Kingdom and continued into the
+        Ptolemaic period, although most of the extant buildings date from the New Kingdom.
+        The area around Karnak was the ancient Egyptian Ipet-isut ("The Most Selected of Places")
+        and the main place of worship of the eighteenth dynasty Theban Triad with the god Amun as
+        its head. It is part of the monumental city of Thebes. The Karnak complex gives its name to the nearby,
+        and partly surrounded, modern village of El-Karnak, 2.5 kilometres (1.6 miles) north of Luxor.
+    </string>
+    <string name="karnak_latitude">30.0538143</string>
+    <string name="karnak_Longitude">31.2584193</string>
+
+
+    <string name="citadel_of_qaitbay">The Citadel of Qaitbay</string>
+    <string name="citadel_of_qaitbay_description">
+        The Citadel of Qaitbay (or the Fort of Qaitbay) is a 15th-century defensive
+        fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was
+        established in 1477 AD (882 AH) by Sultan Al-Ashraf Sayf al-Din Qa\'it Bay.
+        The Citadel is situated on the eastern side of the northern tip of Pharos Island at the mouth of the
+        Eastern Harbour.The Qaitbay Citadel in Alexandria is considered one of the most important defensive strongholds,
+        not only in Egypt, but also along the Mediterranean Sea coast. It formulated an important part of the fortification
+        system of Alexandria in the 15th century AD.
+    </string>
+    <string name="citadel_of_qaitbay_latitude">31.214011</string>
+    <string name="citadel_of_qaitbay_Longitude">29.8834496</string>
+
+
+    <string name="abu_smbel">Abu Simbel</string>
+    <string name="abu_smbel_description">
+        The Abu Simbel temples are two massive rock temples at Abu Simbel, a village in Nubia,
+        southern Egypt, near the border with Sudan. They are situated on the western bank of Lake Nasser,
+        about 230 km southwest of Aswan (about 300 km by road). The complex is part of the UNESCO World Heritage
+        Site known as the "Nubian Monuments", which run from Abu Simbel downriver to Philae (near Aswan). The twin
+        temples were originally carved out of the mountainside in the 13th century BC, during the 19th dynasty reign of
+        the Pharaoh Ramesses II. They serve as a lasting monument to the king and his queen Nefertari, and commemorate his
+        victory at the Battle of Kadesh. Their huge external rock relief figures have become iconic.
+    </string>
+    <string name="abu_smbel_latitude">22.3372319</string>
+    <string name="abu_smbel_Longitude">31.6236103</string>
+
+
+    <string name="al_rifai_mosque">Al-Rifa\'i Mosque</string>
+    <string name="al_rifai_mosque_description">
+        Al-Rifa\'i Mosque, is located in Cairo, Egypt, in Midan al-Qal\'a,
+        adjacent to the Cairo Citadel. The building is located opposite the Mosque-Madrassa
+        of Sultan Hassan, which dates from around 1361, and was architecturally conceived as a complement
+        to the older structure. This was part of a vast campaign by the 19th century rulers of Egypt to both
+        associate themselves with the perceived glory of earlier periods in Egypt's Islamic history and modernize
+        the city. The mosque was constructed next to two large public squares and off of several European style boulevards
+        constructed around the same time.
+    </string>
+    <string name="al_rifai_mosque_latitude">30.0327091</string>
+    <string name="al_rifai_mosque_Longitude">31.2548142</string>
+
+
+    <string name="al_hussein_mosque">Al-Hussain Mosque</string>
+    <string name="al_hussein_mosque_description">
+        The Al-Hussain Mosque is a mosque built in 1154. (Alternative transliterations include Husayn,
+        Hussain, Husayn, and Hussayn; also, the mosque\'s name is prefixed by the honorific title Sayyidna).
+        The mosque is located in Cairo, Egypt, near the Khan El-Khalili bazaar. It is considered to be one of the
+        holiest Islamic sites in Egypt.The mosque was built on the cemetery of the Fatimid caliphs, though this was not
+        known until the site\'s archaeological excavation. It is named for Muhammad\'s grandson, Hussain ibn Ali. Dawoodi Bohra
+        and other Shia Muslims believe that Husayn\'s head is buried on the grounds of the mosque. The complex includes a mausoleum,
+        which dates back to the mosque\'s original construction in 1154.
+    </string>
+    <string name="al_hussein_mosque_latitude">30.048237</string>
+    <string name="al_hussein_mosque_Longitude">31.2614963</string>
+
+
+    <string name="mosque_of_al_hakim">Mosque of al-Hakim</string>
+    <string name="mosque_of_al_hakim_description">
+        The Mosque of al-Hakim, nicknamed al-Anwar, is a major Islamic religious site in Cairo, Egypt.
+        It is named after Al-Hakim bi-Amr Allah (985–1021), the sixth Fatimid caliph and 16th Ismaili Imam.
+        The mosque was originally built as an enclosure by the Fatimid vizier Gawhar Al-Siqilli (c. 928–992),
+        but was incorporated into the extended fortifications built by Badr al-Jamali. It consists of an irregular
+        rectangle with four arcades surrounding the courtyard. An unusual feature is the monumental entrance with its
+        projecting stone porch. It is located in "Islamic Cairo", on the east side of Muizz Street, just south of Bab Al-Futuh
+        (the northern gate).
+    </string>
+    <string name="mosque_of_al_hakim_latitude">30.0518815</string>
+    <string name="mosque_of_al_hakim_Longitude">30.0518815</string>
+
+
+    <string name="cairo">Cairo University</string>
+    <string name="cairo_description">
+        Cairo University is Egypt\'s premier public university. Its main campus is in Giza,
+        immediately across the Nile from Cairo. It was founded on 21 December 1908; however,
+        after being housed in various parts of Cairo, its faculties, beginning with the Faculty of Arts,
+        were established on its current main campus in Giza in October 1929. It is the second oldest institution
+        of higher education in Egypt after Al Azhar University, notwithstanding the pre-existing higher professional
+        schools that later became constituent colleges of the university. It was founded and funded as the Egyptian University
+        by a committee of private citizens with royal patronage in 1908 and became a state institution under King Fuad I in 1925.
+        In 1940, four years following his death, the University was renamed King Fuad I University in his honor. It was renamed a
+        second time after the Free Officer’s Coup of 1952.The University currently enrolls approximately 155,000 students in 22 faculties.
+        It counts three Nobel Laureates among its graduates and is one of the 50 largest institutions of higher education in the world by
+        enrollment
+    </string>
+    <string name="cairo_latitude">30.0273365</string>
+    <string name="cairo_Longitude">31.2063854</string>
+
+
+    <string name="benha">Banha University</string>
+    <string name="benha_description">
+        Banha University is an Egyptian university in the Egyptian city of Banha, the capital of Al Qalyubiyah governorate.
+        It was established according to a decree on 25 November 1976 as a branch from Zagazig University in Banha, with the faculties
+        of Commerce, Education, Agriculture of Moshtohor, Engineering of Shobra and Medicine.
+        In 1981–1982, the faculties of Arts, Science of Banha and Veterinary Medicine of Moshtohor were founded.
+        On 1 August 2005 it became an independent university from Zagazig University. The previous president of the university
+        is Professor Hosam-ed-din Mohammad Al-Attar and then professor Mohamed Safwat Zahran, now Professor Ali Shams Aldeen.
+    </string>
+    <string name="benha_latitude">30.4706141</string>
+    <string name="benha_Longitude">31.1814182</string>
+
+
+    <string name="ain_shams">Ain Shams University</string>
+    <string name="ain_shams_description">
+        Ain Shams University is an institute of higher education located in Cairo,
+        Egypt. Founded in 1950, the university provides education at the undergraduate, graduate and post-graduate levels.
+        Ain Shams University was founded in July 1950, the third-oldest non-sectarian native public Egyptian university
+        (ancient Islamic universities such as Al-Azhar and private institutions such as the American University in Cairo are older),
+        under the name of Ibrahim Pasha's University. Its site used to be a former royal palace, called the Zafarana Palace. The two
+        earlier universities of this kind are Cairo University (Fuad I university) and Alexandria University (Farouk I university).
+        When it was first established
+    </string>
+    <string name="ain_shams_latitude">30.0938255</string>
+    <string name="ain_shams_Longitude">31.2533663</string>
+
+
+    <string name="red_sea">Red Sea</string>
+    <string name="red_sea_description">
+        The Red Sea (also the Erythraean Sea) is a seawater inlet of the Indian Ocean,
+        lying between Africa and Asia. The connection to the ocean is in the south through the Bab el Mandeb
+        strait and the Gulf of Aden. To the north lie the Sinai Peninsula, the Gulf of Aqaba, and the Gulf of Suez
+        (leading to the Suez Canal). The Red Sea is a Global 200 ecoregion. The sea is underlain by the Red Sea Rift
+        which is part of the Great Rift Valley.
+    </string>
+    <string name="red_sea_latitude">25.1520947</string>
+    <string name="red_sea_Longitude">35.4219742</string>
+
+
+    <string name="sharm_el_sheikh">Sharm El Sheikh</string>
+    <string name="sharm_el_sheikh_description">
+        Sharm El Sheikh is a city on the southern tip of the Sinai Peninsula, in South Sinai Governorate,
+        Egypt, on the coastal strip along the Red Sea. Its population is approximately 73,000 as of 2015.
+        Sharm El Sheikh is the administrative hub of Egypt\'s South Sinai Governorate, which includes the smaller
+        coastal towns of Dahab and Nuweiba as well as the mountainous interior, St. Catherine and Mount Sinai.
+        Although this city and holiday resort was a significant centre for tourism in Egypt, since the Metro Jet disaster
+        it has lost popularity.
+    </string>
+    <string name="sharm_el_sheikh_latitude">27.9201492</string>
+    <string name="sharm_el_sheikh_Longitude">34.2639883</string>
+
+    <string name="alex">Alexandria</string>
+    <string name="alex_description">
+        Alexandria is the second largest city and a major economic centre in Egypt,
+        extending about 32 km (20 mi) along the coast of the Mediterranean Sea in the north central part of the country.
+        Its low elevation on the Nile delta makes it highly vulnerable to rising sea levels. Alexandria is an important
+        industrial center because of its natural gas and oil pipelines from Suez. Alexandria is also a popular tourist destination.
+    </string>
+    <string name="alex_latitude">31.2240349</string>
+    <string name="alex_Longitude">29.8147987</string>
+
+</resources>

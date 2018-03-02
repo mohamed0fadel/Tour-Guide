@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_monuments"
+            android:icon="@drawable/anubis"
+            android:title="@string/monuments" />
+        <item
+            android:id="@+id/nav_mosque"
+            android:icon="@drawable/mosque"
+            android:title="@string/mosque" />
+        <item
+            android:id="@+id/nav_hotel"
+            android:icon="@drawable/university"
+            android:title="@string/university" />
+        <item
+            android:id="@+id/nav_beah"
+            android:icon="@drawable/beach"
+            android:title="@string/beach" />
+    </group>
+
+
+</menu>

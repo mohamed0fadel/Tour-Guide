@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/list_background">
+
+    <ImageView
+        android:id="@+id/list_image"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_image_height"
+        android:src="@drawable/tutankhamun_"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:id="@+id/list_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:text="@string/tutankhamun"
+        android:layout_marginTop="@dimen/list_text_height"
+        android:layout_marginLeft="@dimen/eight"
+        android:textColor="@android:color/white"
+        android:textSize="32sp"/>
+
+
+</RelativeLayout>
